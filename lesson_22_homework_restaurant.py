@@ -44,6 +44,18 @@ class Restaurant():
         сообщение о том, что ресторан открыт"""
         print(self.cuisine_type.title() + ' ' + self.restaurant_name.title() + ": Мы открылись!")
 
+class User():
+
+    def __init__(self, first_name, last_name):
+        self.first_name = first_name
+        self.last_name = last_name
+
+    def describe_user(self)
+
+
+
+
+
 KFC = Restaurant('KFC', 'Fastfood')
 
 KFC.open_restaurant()
