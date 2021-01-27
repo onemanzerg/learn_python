@@ -40,5 +40,5 @@ audi.increment_odometr(0)
 audi.read_odometr()
 
 subaru.update_odometr(0)
-subaru.increment_odometr(14)
+subaru.increment_odometr(13)
 subaru.read_odometr()
